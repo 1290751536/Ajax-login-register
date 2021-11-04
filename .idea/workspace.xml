@@ -5,8 +5,90 @@
       <artifact name="前后端分离验证登录:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5811810-0d17-4569-837f-9586e843842b" name="Default Changelist" comment="" />
+    <list default="true" id="e5811810-0d17-4569-837f-9586e843842b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/LogoutServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/user/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/user/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/前后端分离验证登录.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/impl/implUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/UserDomain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/impl/implUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/ExistUserNameServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/GetUserSessionServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/RegisterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/TmpServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/CodeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/JDBCUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/dao/impl/implUserDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tmp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/META-INF/前后端分离验证登录.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/dao/impl/implUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/domain/UserDomain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/service/impl/implUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/servlet/ExistUserNameServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/servlet/GetUserSessionServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/servlet/RegisterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/servlet/TmpServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/util/CodeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/classes/util/JDBCUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/c3p0-0.9.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/filters-2.0.235-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/jackson-annotations-2.13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/jackson-core-2.13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/jackson-databind-2.13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/kaptcha-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/mchange-commons-java-0.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/mysql-connector-java-8.0.26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/protobuf-java-3.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/spring-aop-5.3.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/spring-beans-5.3.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/spring-context-5.3.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/spring-core-5.3.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/spring-expression-5.3.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/spring-jcl-5.3.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/spring-jdbc-5.3.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/lib/spring-tx-5.3.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/css/bulma.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/images/Sunrise.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/js/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/js/user/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/js/user/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/js/user/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/前后端分离验证登录/register.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +104,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -30,6 +115,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="20LT6hCKEuH0IvmR6ps3ie5K7iU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +128,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/servlet" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,11 +145,11 @@
       <recent name="dao.impl" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86131\Desktop\webapp0908\前后端分离验证登录\src\main\java\servlet" />
       <recent name="C:\Users\86131\Desktop\webapp0908\前后端分离验证登录\src\main\webapp\js" />
       <recent name="C:\Users\86131\Desktop\webapp0908\前后端分离验证登录\src\main\java\util" />
       <recent name="C:\Users\86131\Desktop\webapp0908\前后端分离验证登录\src\main\webapp" />
       <recent name="C:\Users\86131\Desktop\webapp0908\前后端分离验证登录\src\main\webapp\css" />
-      <recent name="C:\Users\86131\Desktop\webapp0908\前后端分离验证登录\src\main\resources" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -249,12 +335,23 @@
       <option name="presentableId" value="Default" />
       <updated>1635822694057</updated>
       <workItem from="1635822696625" duration="18018000" />
-      <workItem from="1635905137494" duration="10298000" />
+      <workItem from="1635905137494" duration="11674000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="1159" y="402" key="#BuildArtifactsBeforeRunChooser" timestamp="1635823161362">
@@ -273,58 +370,62 @@
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
     <state x="1112" y="281" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635842997469" />
-    <state width="1382" height="300" key="GridCell.Tab.0.bottom" timestamp="1635928352790">
+    <state width="2005" height="302" key="GridCell.Tab.0.bottom" timestamp="1635948323123">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.0.bottom/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352790" />
-    <state width="1382" height="300" key="GridCell.Tab.0.center" timestamp="1635928352790">
+    <state width="2005" height="302" key="GridCell.Tab.0.bottom/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323123" />
+    <state width="2005" height="302" key="GridCell.Tab.0.center" timestamp="1635948323123">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.0.center/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352790" />
-    <state width="1382" height="300" key="GridCell.Tab.0.left" timestamp="1635928352790">
+    <state width="2005" height="302" key="GridCell.Tab.0.center/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323123" />
+    <state width="2005" height="302" key="GridCell.Tab.0.left" timestamp="1635948323123">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.0.left/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352790" />
-    <state width="1382" height="300" key="GridCell.Tab.0.right" timestamp="1635928352790">
+    <state width="2005" height="302" key="GridCell.Tab.0.left/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323123" />
+    <state width="2005" height="302" key="GridCell.Tab.0.right" timestamp="1635948323123">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.0.right/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352790" />
-    <state width="1382" height="300" key="GridCell.Tab.1.bottom" timestamp="1635928352724">
+    <state width="2005" height="302" key="GridCell.Tab.0.right/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323123" />
+    <state width="1382" height="300" key="GridCell.Tab.1.bottom" timestamp="1635948323120">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.1.bottom/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352724" />
-    <state width="1382" height="300" key="GridCell.Tab.1.center" timestamp="1635928352723">
+    <state width="1382" height="300" key="GridCell.Tab.1.bottom/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323120" />
+    <state width="1382" height="300" key="GridCell.Tab.1.center" timestamp="1635948323120">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.1.center/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352723" />
-    <state width="1382" height="300" key="GridCell.Tab.1.left" timestamp="1635928352723">
+    <state width="1382" height="300" key="GridCell.Tab.1.center/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323120" />
+    <state width="1382" height="300" key="GridCell.Tab.1.left" timestamp="1635948323120">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.1.left/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352723" />
-    <state width="1382" height="300" key="GridCell.Tab.1.right" timestamp="1635928352723">
+    <state width="1382" height="300" key="GridCell.Tab.1.left/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323120" />
+    <state width="1382" height="300" key="GridCell.Tab.1.right" timestamp="1635948323120">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.1.right/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352723" />
-    <state width="1382" height="300" key="GridCell.Tab.2.bottom" timestamp="1635928352724">
+    <state width="1382" height="300" key="GridCell.Tab.1.right/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323120" />
+    <state width="1382" height="300" key="GridCell.Tab.2.bottom" timestamp="1635948323121">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.2.bottom/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352724" />
-    <state width="1382" height="300" key="GridCell.Tab.2.center" timestamp="1635928352724">
+    <state width="1382" height="300" key="GridCell.Tab.2.bottom/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323121" />
+    <state width="1382" height="300" key="GridCell.Tab.2.center" timestamp="1635948323121">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.2.center/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352724" />
-    <state width="1382" height="300" key="GridCell.Tab.2.left" timestamp="1635928352724">
+    <state width="1382" height="300" key="GridCell.Tab.2.center/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323121" />
+    <state width="1382" height="300" key="GridCell.Tab.2.left" timestamp="1635948323121">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.2.left/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352724" />
-    <state width="1382" height="300" key="GridCell.Tab.2.right" timestamp="1635928352724">
+    <state width="1382" height="300" key="GridCell.Tab.2.left/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323121" />
+    <state width="1382" height="300" key="GridCell.Tab.2.right" timestamp="1635948323121">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state width="1382" height="300" key="GridCell.Tab.2.right/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635928352724" />
+    <state width="1382" height="300" key="GridCell.Tab.2.right/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635948323121" />
     <state x="859" y="171" key="SettingsEditor" timestamp="1635823290397">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
     <state x="859" y="171" key="SettingsEditor/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635823290397" />
+    <state x="820" y="465" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635947858655">
+      <screen x="0" y="0" width="2048" height="1104" />
+    </state>
+    <state x="820" y="465" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1104/-1920.-1047.1536.864@0.0.2048.1104" timestamp="1635947858655" />
     <state x="1078" y="404" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1635910154407">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
